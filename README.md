@@ -12,7 +12,7 @@
 ---
 
 ## Courses and Certificates
-  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
+  - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/SaraHouhou/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/1.%20Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="https://github.com/SaraHouhou/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/Certaficates/CNN_IN_Tensorflow.pdf" />](https://coursera.org/share/e5d79cc84a796c2fa05203cb5f5b34e1)
@@ -26,14 +26,14 @@
 
   </p></details>
 
-  - [Natural Language Processing in TensorFlow](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow) <details>
+  - [Natural Language Processing in TensorFlow](https://github.com/SaraHouhou/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Natural%20Language%20Processing%20in%20TensorFlow.jpg" />](https://coursera.org/verify/JCGQ7E93HKX2)
 
   </p></details>
 
-  - [Sequences, Time Series and Prediction](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/4.%20Sequences%2C%20Time%20Serirs%20and%20Prediction) <details>
+  - [Sequences, Time Series and Prediction](https://github.com/SaraHouhou/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/4.%20Sequences%2C%20Time%20Serirs%20and%20Prediction) <details>
     <summary>Show Certificate</summary><p>
 
       [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/certificates/Sequences%2C%20Time%20Serirs%20and%20Prediction.jpg" />](https://coursera.org/verify/Q4THAWDKPCUL)
