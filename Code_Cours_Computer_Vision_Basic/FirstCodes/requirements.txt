@@ -1,0 +1,9 @@
+conda env list
+conda activate py365
+ conda install matplotlib
+pip install --upgrade tensorflow
+pip install mediapipe
+pip install keras
+python -m pip install opencv-python
+conda update -n base -c defaults conda
+pip install 'h5py==2.10.0' --force-reinstall

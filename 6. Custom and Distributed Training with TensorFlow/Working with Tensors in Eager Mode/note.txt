@@ -1,0 +1,1 @@
+TensorFlow prend en charge deux types d’exécution de code, basé sur un graphique où toutes les données et les opérations sont chargées dans un graphique avant de les évaluer dans une session, ou basé sur Eager où tout le code est exécuté ligne par ligne.
